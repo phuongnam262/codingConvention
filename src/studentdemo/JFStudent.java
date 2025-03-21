@@ -13,8 +13,8 @@ public class JFStudent extends javax.swing.JFrame {
 
     List<Student> list = new ArrayList<Student>();
     Student x;
-    private static int pos = 0;
-    private static int check = 0;
+    private static int currentPossition = 0;
+    private static int checkFlag = 0;
     JPanel panel;
 
     public JFStudent() {
