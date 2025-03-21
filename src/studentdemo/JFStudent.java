@@ -1,3 +1,5 @@
+package studentdemo;
+
 import java.util.*;
 import java.awt.Color;
 import java.awt.Font;
