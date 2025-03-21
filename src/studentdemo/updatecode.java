@@ -1,4 +1,4 @@
-package com.yourcompany.studentmanagement;
+package studentdemo;
 
 import java.awt.Color;
 import java.util.ArrayList;
