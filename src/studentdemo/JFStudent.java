@@ -7,11 +7,19 @@ import javax.swing.table.DefaultTableModel;
 
 public class JFStudent extends javax.swing.JFrame {
 
+<<<<<<< HEAD
     List<Student> studentList = new ArrayList<>();
     Student currentStudent;
     private static int currentPosition = 0;
     private static int checkFlag = 0;
     private JPanel panel;
+=======
+    List<Student> list = new ArrayList<Student>();
+    Student x;
+    private static int Pos = 0;
+    private static int check = 0;
+    JPanel panel;
+>>>>>>> 669c33f2aa4e05d7fdef3918ed40982c2e5457b6
 
     public JFStudent() {
         initComponents();
